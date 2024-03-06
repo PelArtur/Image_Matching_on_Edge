@@ -5,7 +5,7 @@ Project from the Computer Systems Architecture course of the 2nd year of Compute
 Our team:
 
 - [Artur Pelcharskyi](https://github.com/PelArtur)
-- [David Ilnytskyi](https://github.com/DavidIlnytskyi)
+- [Davyd Ilnytskyi](https://github.com/DavidIlnytskyi)
 - [Mykhailo Buleshnyi](https://github.com/mikl123)
 - [Maksym Buleshnyi](https://github.com/maksDev123)
 
